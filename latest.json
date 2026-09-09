@@ -1,7 +1,7 @@
 {
   "version": "0.1.5",
-  "versionCode": 7,
+  "versionCode": 8,
   "apkUrl": "https://artyomstkr.github.io/arancel_bob_releases/app-release.apk",
   "githubUrl": "https://github.com/ArtyomStkr/arancel_bob_releases/releases/latest/download/app-release.apk",
-  "notas": "Beta 0.1.5"
+  "notas": "Beta 0.1.5 (build 8): corrección del envío de feedback"
 }
