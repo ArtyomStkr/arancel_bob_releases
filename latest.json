@@ -1,7 +1,7 @@
 {
-  "version": "0.1.8",
-  "versionCode": 11,
+  "version": "0.1.9",
+  "versionCode": 12,
   "apkUrl": "https://artyomstkr.github.io/arancel_bob_releases/Arancel%20Bolivia%202026.apk",
-  "githubUrl": "https://github.com/ArtyomStkr/arancel_bob_releases/releases/download/v0.1.8/Arancel.Bolivia.2026.apk",
-  "notas": "Beta 0.1.7 (build 10): barra de navegación nativa con animación de píldora al cambiar de pantalla, zoom al presionar y píldora más grande"
+  "githubUrl": "https://github.com/ArtyomStkr/arancel_bob_releases/releases/download/v0.1.9/Arancel.Bolivia.2026.apk",
+  "notas": "Beta 0.1.9 (build 12): preferencias arancelarias en tabla, ayuda, cuestionario con encuesta, feedback con datos del dispositivo, nuevo logo y nuevo icono de launcher"
 }
