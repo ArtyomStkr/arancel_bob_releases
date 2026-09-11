@@ -1,7 +1,7 @@
 {
   "version": "0.1.11",
   "versionCode": 14,
-  "apkUrl": "https://artyomstkr.github.io/arancel_bob_releases/Arancel%20Bolivia%202026.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ArtyomStkr/arancel_bob_releases/main/Arancel%20Bolivia%202026.apk",
   "githubUrl": "https://github.com/ArtyomStkr/arancel_bob_releases/releases/download/v0.1.11/Arancel.Bolivia.2026.apk",
   "notas": "Beta 0.1.11 (build 14): corrección de notas de capítulos y secciones, apéndices IVA y ACE con selección de antigüedad y GA por año, significado de las abreviaturas del tipo de documento, la DB ahora se actualiza correctamente al actualizar la app y correcciones menores"
 }
