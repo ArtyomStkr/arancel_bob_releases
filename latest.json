@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
-  "versionCode": 15,
+  "version": "2.0.1",
+  "versionCode": 16,
   "apkUrl": "https://raw.githubusercontent.com/ArtyomStkr/arancel_bob_releases/main/Arancel%20Bolivia%202026.apk",
-  "githubUrl": "https://github.com/ArtyomStkr/arancel_bob_releases/releases/download/v0.2.0/Arancel.Bolivia.2026.apk",
-  "notas": "Implementación de ICE al cálculo de tributos para vehículos."
+  "githubUrl": "https://github.com/ArtyomStkr/arancel_bob_releases/releases/download/v2.0.1/Arancel.Bolivia.2026.apk",
+  "notas": "Buscador jerárquico con prioridad de padres (87.02 con subárboles desplegados), búsqueda insensible a acentos y por códigos parciales, historial solo con códigos completos, ficha de cálculos recientes con GA/ICE en %, notas legales corregidas en modo oscuro y barra de navegación en capítulos."
 }
