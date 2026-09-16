@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
-  "versionCode": 17,
+  "version": "2.0.3",
+  "versionCode": 18,
   "apkUrl": "https://raw.githubusercontent.com/ArtyomStkr/arancel_bob_releases/main/Arancel%20Bolivia%202026.apk",
-  "githubUrl": "https://github.com/ArtyomStkr/arancel_bob_releases/releases/download/v2.0.2/Arancel.Bolivia.2026.apk",
-  "notas": "Buscador jerárquico con prioridad de padres (87.02 con subárboles desplegados), búsqueda insensible a acentos y por códigos parciales, historial solo con códigos completos, ficha de cálculos recientes con GA/ICE en %. Se agregan las informaciones legales D.S. Leyes: disposición legal, entidad emisora y nota legal en Markdown dentro del detalle, con acceso a los documentos PDF (visualización offline con caché para documentos ya vistos) y enlace a la página web de la entidad."
+  "githubUrl": "https://github.com/ArtyomStkr/arancel_bob_releases/releases/download/v2.0.3/Arancel.Bolivia.2026.apk",
+  "notas": "Cambios y actualización: se corrigieron algunas leyes incoherentes y se implementaron las entidades emisoras."
 }
