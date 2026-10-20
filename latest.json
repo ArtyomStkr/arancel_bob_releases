@@ -1,7 +1,7 @@
 {
-  "version": "0.2.5",
-  "versionCode": 19,
+  "version": "0.3.0",
+  "versionCode": 21,
   "apkUrl": "https://raw.githubusercontent.com/ArtyomStkr/arancel_bob_releases/main/Arancel%20Bolivia%202026.apk",
-  "githubUrl": "https://github.com/ArtyomStkr/arancel_bob_releases/releases/download/v0.2.5/Arancel.Bolivia.2026.apk",
-  "notas": "* Se agregó políticas de uso y licencias\n* Se agregó recopilador de errores\n* Se corrigieron partidas fantasmas"
+  "githubUrl": "https://github.com/ArtyomStkr/arancel_bob_releases/releases/download/v0.3.0/Arancel.Bolivia.2026.apk",
+  "notas": "* Se agregó IVA para libros.\n* Las preferencias arancelarias ya se aplican al cálculo.\n* Publicidad integrada.\n* Otros cambios."
 }
